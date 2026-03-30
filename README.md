@@ -5,7 +5,6 @@
 **Full Stack AI Engineer**
 AI를 실무에 접목해 개발 전 과정을 주도합니다. 기획부터 배포까지, AI로 빠르게 만들고 검증합니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pokopang.vercel.app-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://pokopang.vercel.app)
 [![Email](https://img.shields.io/badge/Email-aoperat@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aoperat@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Busan%2C%20South%20Korea-34d399?style=flat-square&logo=google-maps&logoColor=white)](#)
 
