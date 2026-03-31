@@ -5,10 +5,25 @@
 **Full Stack AI Engineer**
 AI를 실무에 접목해 개발 전 과정을 주도합니다. 기획부터 배포까지, AI로 빠르게 만들고 검증합니다.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-pokopang.vercel.app-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://pokopang.vercel.app)
 [![Email](https://img.shields.io/badge/Email-aoperat@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aoperat@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Busan%2C%20South%20Korea-34d399?style=flat-square&logo=google-maps&logoColor=white)](#)
 
 </div>
+
+---
+
+## 🎯 What I Do for Your Team
+
+> **"현재 위치를 모르면 앞으로 나아갈 수 없다"**
+> 팀의 병목을 먼저 측정하고, 사람·AI·컴퓨터의 역할을 재설계합니다.
+
+| 단계 | 내용 |
+|---|---|
+| 🔍 측정 | 반복 업무·병목 구간을 수치로 가시화 |
+| 🗂️ 분류 | 사람이 할 일 / AI가 할 일 / 컴퓨터가 할 일 구분 |
+| ⚡ 자동화 | n8n · Claude API · MCP로 워크플로우 설계 및 구현 |
+| 📈 성과 측정 | 자동화 전·후 수치 비교로 개선 증명 |
 
 ---
 
@@ -20,12 +35,14 @@ AI를 실무에 접목해 개발 전 과정을 주도합니다. 기획부터 배
 |---|---|---|
 | AI 워크플로우 | Claude API · n8n · MCP Server | 보고서 작성 시간 85% 단축 |
 | AI 코딩 | Claude Code · Skill 제작 | AI 전환 시간 70% 감소 |
+| 스니펫 활용 | VS Code Snippet · Alfred · AHK | 반복 입력 공수 60%+ 절감 |
 | 팀 AI 확산 | 사내 교육 운영 (2025~) | AI 활용률 0% → 65%+ |
 | 문서 자동화 | Claude API · LangChain | 문서화 공수 90% 절감 |
 
 ---
 
-## 🛠 Tech Stack
+<details>
+<summary>🛠 Tech Stack</summary>
 
 **AI / LLM**
 ![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logoColor=white)
@@ -54,6 +71,8 @@ AI를 실무에 접목해 개발 전 과정을 주도합니다. 기획부터 배
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</details>
 
 ---
 
@@ -85,9 +104,15 @@ AI를 실무에 접목해 개발 전 과정을 주도합니다. 기획부터 배
 
 ## 💡 Philosophy
 
-> **"귀찮다"는 감각은 시스템이 아직 최적화되지 않았다는 신호입니다.**
-> 반복되는 업무는 자동화의 출발점 — n8n, Claude API, MCP를 조합해
-> 사람이 **"판단"에만 집중할 수 있는 시스템**을 설계합니다.
+**사람이 "귀찮다"고 느끼는 순간은 시스템 설계의 실패입니다.**
+
+반복은 자동화의 신호, 병목은 재설계의 기회입니다.
+저는 팀에 합류하면 가장 먼저 이 질문을 합니다:
+
+> "지금 이 팀에서 사람이 하고 있는 일 중,
+> 컴퓨터나 AI가 대신할 수 있는 건 무엇인가?"
+
+그 답을 찾아 시스템을 바꾸고, 사람이 **판단에만 집중할 수 있는 환경**을 설계하는 것이 제 역할입니다.
 
 ---
 
